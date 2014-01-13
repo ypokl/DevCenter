@@ -1,1 +1,1 @@
-test_git2.jsp
+test_git2.js
